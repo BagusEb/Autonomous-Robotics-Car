@@ -18,7 +18,7 @@ An Arduino-based autonomous vehicle designed to intelligently navigate its envir
 - **Microcontroller:** Arduino Uno
 - **Motor Driver:** L298N Dual H-Bridge
 - **Actuators:**
-  - 2 x DC Motors (for wheels)
+  - 4 x DC Motors (for wheels)
   - 1 x Servo Motor (SG90, for sensor scanning)
   - 1 x L9110 Fan Module
 - **Sensors:**
@@ -35,8 +35,5 @@ An Arduino-based autonomous vehicle designed to intelligently navigate its envir
 
 - **Language:** C++ (Arduino Framework)
 - **IDE:** Arduino IDE or PlatformIO
-- **Libraries:**
-  - `Servo.h`
-  - `dht.h`
 
 ---
